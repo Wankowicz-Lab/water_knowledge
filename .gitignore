@@ -1,0 +1,5 @@
+*.pdb
+LigandAffectsWater/PDBs/
+LigandAffectsWater/node_modules/
+LigandAffectsWater/t1_waterAroundResidues/node_modules/
+LigandAffectsWater/t1_waterAroundResidues/bin/

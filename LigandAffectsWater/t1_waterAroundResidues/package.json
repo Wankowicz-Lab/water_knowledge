@@ -1,0 +1,21 @@
+{
+  "name": "t1_wateraroundresidues",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "npx tsc && node index.js",
+
+    "download": "npx tsc && node scripts/downloadAllPDBs.js",
+    "align": "npx tsc && node scripts/align.js",
+
+    "graph-heatmap-comparison-1": "npx tsc && node scripts/graphing/AllComparison1/makeHeatmapData.js",
+    "graph-heatmap-comparison-1-bfac": "npx tsc && node scripts/graphing/AllComparison1/makeBFactorBasedHeatmapData.js",
+    "graph-heatmap-comparison-2": "npx tsc && node scripts/graphing/LigandSeriesComparison/makeHeatmapData.js",
+
+    "make-water-network": "npx tsc && node scripts/networks/WaterNetwork/makeNetwork.js"
+  },
+  "devDependencies": {
+    "@types/node": "^22.13.13",
+    "typescript": "^5.8.2"
+  }
+}

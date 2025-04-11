@@ -1,0 +1,407 @@
+[
+    {
+        "PDB": "1pw2",
+        "metrics": {
+            "average_degree": 0.9900990099009901,
+            "total_degree": 200,
+            "degree_centralization": 0.010099502487562188,
+            "network_modality": 0.9478,
+            "node_count": 202,
+            "edge_count": 100,
+            "density": 0.0049258657209004485,
+            "largest_component_ratio": 0.06930693069306931,
+            "num_connected_components": 103,
+            "power_loss_scaling": 0.2904769651584381
+        }
+    },
+    {
+        "PDB": "1pxi",
+        "metrics": {
+            "average_degree": 0.9910714285714286,
+            "total_degree": 222,
+            "degree_centralization": 0.009089807296085323,
+            "network_modality": 0.960960960960961,
+            "node_count": 224,
+            "edge_count": 111,
+            "density": 0.004444266495836002,
+            "largest_component_ratio": 0.044642857142857144,
+            "num_connected_components": 115,
+            "power_loss_scaling": 0.29101215149010207
+        }
+    },
+    {
+        "PDB": "2a0c",
+        "metrics": {
+            "average_degree": 0.5185185185185185,
+            "total_degree": 56,
+            "degree_centralization": 0.023628989596191148,
+            "network_modality": 0.8928571428571428,
+            "node_count": 108,
+            "edge_count": 28,
+            "density": 0.004845967462789893,
+            "largest_component_ratio": 0.05555555555555555,
+            "num_connected_components": 80,
+            "power_loss_scaling": 0.10849509638198107
+        }
+    },
+    {
+        "PDB": "3ql8",
+        "metrics": {
+            "average_degree": 0.6618705035971223,
+            "total_degree": 92,
+            "degree_centralization": 0.017190309954511797,
+            "network_modality": 0.9338374291115311,
+            "node_count": 139,
+            "edge_count": 46,
+            "density": 0.004796163069544364,
+            "largest_component_ratio": 0.05755395683453238,
+            "num_connected_components": 94,
+            "power_loss_scaling": 0.11505344846036991
+        }
+    },
+    {
+        "PDB": "3qqk",
+        "metrics": {
+            "average_degree": 0.9056603773584906,
+            "total_degree": 144,
+            "degree_centralization": 0.013424171571394018,
+            "network_modality": 0.9305555555555556,
+            "node_count": 159,
+            "edge_count": 72,
+            "density": 0.005732027704800574,
+            "largest_component_ratio": 0.06289308176100629,
+            "num_connected_components": 89,
+            "power_loss_scaling": 0.17099244326041851
+        }
+    },
+    {
+        "PDB": "3qql",
+        "metrics": {
+            "average_degree": 1.043859649122807,
+            "total_degree": 238,
+            "degree_centralization": 0.013137889361038557,
+            "network_modality": 0.9486265094273003,
+            "node_count": 228,
+            "edge_count": 119,
+            "density": 0.004598500656928665,
+            "largest_component_ratio": 0.07894736842105263,
+            "num_connected_components": 115,
+            "power_loss_scaling": 0.1924372739945046
+        }
+    },
+    {
+        "PDB": "3qtw",
+        "metrics": {
+            "average_degree": 0.773109243697479,
+            "total_degree": 92,
+            "degree_centralization": 0.01919455309285818,
+            "network_modality": 0.9385633270321361,
+            "node_count": 119,
+            "edge_count": 46,
+            "density": 0.00655177325167355,
+            "largest_component_ratio": 0.058823529411764705,
+            "num_connected_components": 74,
+            "power_loss_scaling": 0.19390170299848242
+        }
+    },
+    {
+        "PDB": "3qu0",
+        "metrics": {
+            "average_degree": 0.6764705882352942,
+            "total_degree": 92,
+            "degree_centralization": 0.017468214483139857,
+            "network_modality": 0.9508506616257089,
+            "node_count": 136,
+            "edge_count": 46,
+            "density": 0.005010893246187364,
+            "largest_component_ratio": 0.051470588235294115,
+            "num_connected_components": 90,
+            "power_loss_scaling": 0.1782341864946303
+        }
+    },
+    {
+        "PDB": "3qwk",
+        "metrics": {
+            "average_degree": 0.8192771084337349,
+            "total_degree": 136,
+            "degree_centralization": 0.013377679231337768,
+            "network_modality": 0.9403114186851211,
+            "node_count": 166,
+            "edge_count": 68,
+            "density": 0.004965315808689303,
+            "largest_component_ratio": 0.05421686746987952,
+            "num_connected_components": 99,
+            "power_loss_scaling": 0.19517462257513452
+        }
+    },
+    {
+        "PDB": "3qx4",
+        "metrics": {
+            "average_degree": 0.8029197080291971,
+            "total_degree": 110,
+            "degree_centralization": 0.01639433551198257,
+            "network_modality": 0.9395041322314049,
+            "node_count": 137,
+            "edge_count": 55,
+            "density": 0.005903821382567625,
+            "largest_component_ratio": 0.058394160583941604,
+            "num_connected_components": 83,
+            "power_loss_scaling": 0.180841890051339
+        }
+    },
+    {
+        "PDB": "3qzh",
+        "metrics": {
+            "average_degree": 0.8622754491017964,
+            "total_degree": 144,
+            "degree_centralization": 0.01303395399780942,
+            "network_modality": 0.9498456790123456,
+            "node_count": 167,
+            "edge_count": 72,
+            "density": 0.005194430416275882,
+            "largest_component_ratio": 0.059880239520958084,
+            "num_connected_components": 95,
+            "power_loss_scaling": 0.2342486032220935
+        }
+    },
+    {
+        "PDB": "3r1q",
+        "metrics": {
+            "average_degree": 0.8383233532934131,
+            "total_degree": 140,
+            "degree_centralization": 0.013179992698064988,
+            "network_modality": 0.9330612244897959,
+            "node_count": 167,
+            "edge_count": 70,
+            "density": 0.005050140682490441,
+            "largest_component_ratio": 0.059880239520958084,
+            "num_connected_components": 98,
+            "power_loss_scaling": 0.15483426293418656
+        }
+    },
+    {
+        "PDB": "3r7e",
+        "metrics": {
+            "average_degree": 0.7647058823529411,
+            "total_degree": 130,
+            "degree_centralization": 0.013384051845590307,
+            "network_modality": 0.9448520710059172,
+            "node_count": 170,
+            "edge_count": 65,
+            "density": 0.004524886877828055,
+            "largest_component_ratio": 0.052941176470588235,
+            "num_connected_components": 106,
+            "power_loss_scaling": 0.14611059402684845
+        }
+    },
+    {
+        "PDB": "3r7v",
+        "metrics": {
+            "average_degree": 0.925,
+            "total_degree": 148,
+            "degree_centralization": 0.013215508319401322,
+            "network_modality": 0.9411979547114683,
+            "node_count": 160,
+            "edge_count": 74,
+            "density": 0.005817610062893081,
+            "largest_component_ratio": 0.0625,
+            "num_connected_components": 88,
+            "power_loss_scaling": 0.24288759912167912
+        }
+    },
+    {
+        "PDB": "3r8v",
+        "metrics": {
+            "average_degree": 0.9012345679012346,
+            "total_degree": 146,
+            "degree_centralization": 0.013198757763975156,
+            "network_modality": 0.9386376430850065,
+            "node_count": 162,
+            "edge_count": 73,
+            "density": 0.005597730235411395,
+            "largest_component_ratio": 0.06172839506172839,
+            "num_connected_components": 91,
+            "power_loss_scaling": 0.18875156520605096
+        }
+    },
+    {
+        "PDB": "3r9d",
+        "metrics": {
+            "average_degree": 0.6842105263157895,
+            "total_degree": 78,
+            "degree_centralization": 0.020859671302149177,
+            "network_modality": 0.9191321499013807,
+            "node_count": 114,
+            "edge_count": 39,
+            "density": 0.006054960409874243,
+            "largest_component_ratio": 0.06140350877192982,
+            "num_connected_components": 76,
+            "power_loss_scaling": 0.18546354606889726
+        }
+    },
+    {
+        "PDB": "3rjc",
+        "metrics": {
+            "average_degree": 0.890625,
+            "total_degree": 114,
+            "degree_centralization": 0.01687289088863892,
+            "network_modality": 0.9128962757771621,
+            "node_count": 128,
+            "edge_count": 57,
+            "density": 0.007012795275590551,
+            "largest_component_ratio": 0.078125,
+            "num_connected_components": 73,
+            "power_loss_scaling": 0.16613974900491713
+        }
+    },
+    {
+        "PDB": "3rk9",
+        "metrics": {
+            "average_degree": 0.9212121212121213,
+            "total_degree": 152,
+            "degree_centralization": 0.019003441568158013,
+            "network_modality": 0.9269390581717452,
+            "node_count": 165,
+            "edge_count": 76,
+            "density": 0.005617147080561715,
+            "largest_component_ratio": 0.08484848484848485,
+            "num_connected_components": 92,
+            "power_loss_scaling": 0.17120538493626036
+        }
+    },
+    {
+        "PDB": "3rm7",
+        "metrics": {
+            "average_degree": 0.8026315789473685,
+            "total_degree": 122,
+            "degree_centralization": 0.014746136865342164,
+            "network_modality": 0.9282450954044612,
+            "node_count": 152,
+            "edge_count": 61,
+            "density": 0.0053154409201812474,
+            "largest_component_ratio": 0.07236842105263158,
+            "num_connected_components": 92,
+            "power_loss_scaling": 0.12201098512517394
+        }
+    },
+    {
+        "PDB": "3rni",
+        "metrics": {
+            "average_degree": 0.8181818181818182,
+            "total_degree": 90,
+            "degree_centralization": 0.020387359836901122,
+            "network_modality": 0.9392592592592592,
+            "node_count": 110,
+            "edge_count": 45,
+            "density": 0.007506255212677231,
+            "largest_component_ratio": 0.06363636363636363,
+            "num_connected_components": 66,
+            "power_loss_scaling": 0.2203740783618653
+        }
+    },
+    {
+        "PDB": "3unj",
+        "metrics": {
+            "average_degree": 0.7878787878787878,
+            "total_degree": 156,
+            "degree_centralization": 0.01134362374391381,
+            "network_modality": 0.9457593688362919,
+            "node_count": 198,
+            "edge_count": 78,
+            "density": 0.003999384710044608,
+            "largest_component_ratio": 0.050505050505050504,
+            "num_connected_components": 121,
+            "power_loss_scaling": 0.12151394283551709
+        }
+    },
+    {
+        "PDB": "4d4y",
+        "metrics": {
+            "average_degree": 0.6814159292035398,
+            "total_degree": 154,
+            "degree_centralization": 0.010396825396825397,
+            "network_modality": 0.960026986001012,
+            "node_count": 226,
+            "edge_count": 77,
+            "density": 0.0030285152409046216,
+            "largest_component_ratio": 0.04424778761061947,
+            "num_connected_components": 150,
+            "power_loss_scaling": 0.12422210645066811
+        }
+    },
+    {
+        "PDB": "4d5h",
+        "metrics": {
+            "average_degree": 0.5023696682464455,
+            "total_degree": 106,
+            "degree_centralization": 0.007199817726133516,
+            "network_modality": 0.9690281238875045,
+            "node_count": 211,
+            "edge_count": 53,
+            "density": 0.002392236515459264,
+            "largest_component_ratio": 0.018957345971563982,
+            "num_connected_components": 158,
+            "power_loss_scaling": 0.10533599328733056
+        }
+    },
+    {
+        "PDB": "5auv",
+        "metrics": {
+            "average_degree": 0.957983193277311,
+            "total_degree": 228,
+            "degree_centralization": 0.01294428949438604,
+            "network_modality": 0.9639889196675899,
+            "node_count": 238,
+            "edge_count": 114,
+            "density": 0.004042123178385278,
+            "largest_component_ratio": 0.046218487394957986,
+            "num_connected_components": 127,
+            "power_loss_scaling": 0.1975798508501887
+        }
+    },
+    {
+        "PDB": "5aux",
+        "metrics": {
+            "average_degree": 0.9113924050632911,
+            "total_degree": 216,
+            "degree_centralization": 0.008925351604760188,
+            "network_modality": 0.9554183813443072,
+            "node_count": 237,
+            "edge_count": 108,
+            "density": 0.003861832224844454,
+            "largest_component_ratio": 0.06329113924050633,
+            "num_connected_components": 132,
+            "power_loss_scaling": 0.23752656991696852
+        }
+    },
+    {
+        "PDB": "5av1",
+        "metrics": {
+            "average_degree": 0.9121338912133892,
+            "total_degree": 218,
+            "degree_centralization": 0.013083714498457612,
+            "network_modality": 0.955980136352159,
+            "node_count": 239,
+            "edge_count": 109,
+            "density": 0.0038324953412327274,
+            "largest_component_ratio": 0.058577405857740586,
+            "num_connected_components": 134,
+            "power_loss_scaling": 0.18448543511049864
+        }
+    },
+    {
+        "PDB": "5av2",
+        "metrics": {
+            "average_degree": 0.8625592417061612,
+            "total_degree": 182,
+            "degree_centralization": 0.010275689223057645,
+            "network_modality": 0.9501267962806426,
+            "node_count": 211,
+            "edge_count": 91,
+            "density": 0.004107424960505529,
+            "largest_component_ratio": 0.05687203791469194,
+            "num_connected_components": 123,
+            "power_loss_scaling": 0.16826686547901215
+        }
+    }
+]

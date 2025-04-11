@@ -1,0 +1,5 @@
+This test includes making a graph network of water networks of Kinases and using various metrics to compare similarity.
+
+1. All kinase waters were extracted via TS/JS and saved to ./allKinaseWaters.json
+2. Python taking over because more features working with graphs
+
