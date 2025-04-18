@@ -1,0 +1,3112 @@
+[
+  {
+    "holoPDB": "18gs",
+    "apoPDB": "16gs",
+    "waterChange": 128
+  },
+  {
+    "holoPDB": "19gs",
+    "apoPDB": "16gs",
+    "waterChange": 8
+  },
+  {
+    "holoPDB": "2gss",
+    "apoPDB": "16gs",
+    "waterChange": -4
+  },
+  {
+    "holoPDB": "5gss",
+    "apoPDB": "16gs",
+    "waterChange": -32
+  },
+  {
+    "holoPDB": "9gss",
+    "apoPDB": "16gs",
+    "waterChange": 33
+  },
+  {
+    "holoPDB": "3a3h",
+    "apoPDB": "1a3h",
+    "waterChange": -5
+  },
+  {
+    "holoPDB": "6a3h",
+    "apoPDB": "1a3h",
+    "waterChange": -77
+  },
+  {
+    "holoPDB": "5fbe",
+    "apoPDB": "1bio",
+    "waterChange": -49
+  },
+  {
+    "holoPDB": "5fbi",
+    "apoPDB": "1bio",
+    "waterChange": -66
+  },
+  {
+    "holoPDB": "1ghz",
+    "apoPDB": "1c1o",
+    "waterChange": 14
+  },
+  {
+    "holoPDB": "1gi0",
+    "apoPDB": "1c1o",
+    "waterChange": 14
+  },
+  {
+    "holoPDB": "1c22",
+    "apoPDB": "1c21",
+    "waterChange": 10
+  },
+  {
+    "holoPDB": "3caj",
+    "apoPDB": "1cah",
+    "waterChange": 98
+  },
+  {
+    "holoPDB": "1f0t",
+    "apoPDB": "1ce5",
+    "waterChange": -15
+  },
+  {
+    "holoPDB": "1f0u",
+    "apoPDB": "1ce5",
+    "waterChange": -13
+  },
+  {
+    "holoPDB": "1g3b",
+    "apoPDB": "1ce5",
+    "waterChange": 17
+  },
+  {
+    "holoPDB": "1g3c",
+    "apoPDB": "1ce5",
+    "waterChange": 12
+  },
+  {
+    "holoPDB": "1g3d",
+    "apoPDB": "1ce5",
+    "waterChange": 13
+  },
+  {
+    "holoPDB": "1g3e",
+    "apoPDB": "1ce5",
+    "waterChange": 12
+  },
+  {
+    "holoPDB": "1jz3",
+    "apoPDB": "1dp0",
+    "waterChange": -75
+  },
+  {
+    "holoPDB": "4pyx",
+    "apoPDB": "1f2w",
+    "waterChange": -28
+  },
+  {
+    "holoPDB": "4qtl",
+    "apoPDB": "1f2w",
+    "waterChange": -31
+  },
+  {
+    "holoPDB": "4tqi",
+    "apoPDB": "1f41",
+    "waterChange": 29
+  },
+  {
+    "holoPDB": "5jid",
+    "apoPDB": "1f41",
+    "waterChange": 17
+  },
+  {
+    "holoPDB": "3jsg",
+    "apoPDB": "1gd0",
+    "waterChange": -32
+  },
+  {
+    "holoPDB": "1ur8",
+    "apoPDB": "1gpf",
+    "waterChange": -52
+  },
+  {
+    "holoPDB": "1w1t",
+    "apoPDB": "1gpf",
+    "waterChange": 92
+  },
+  {
+    "holoPDB": "1w1v",
+    "apoPDB": "1gpf",
+    "waterChange": 59
+  },
+  {
+    "holoPDB": "2bzz",
+    "apoPDB": "1gqv",
+    "waterChange": -5
+  },
+  {
+    "holoPDB": "4ym9",
+    "apoPDB": "1gwa",
+    "waterChange": -2
+  },
+  {
+    "holoPDB": "1hl7",
+    "apoPDB": "1hkh",
+    "waterChange": -73
+  },
+  {
+    "holoPDB": "1koj",
+    "apoPDB": "1hm5",
+    "waterChange": -367
+  },
+  {
+    "holoPDB": "1i2w",
+    "apoPDB": "1i2s",
+    "waterChange": -39
+  },
+  {
+    "holoPDB": "2ah4",
+    "apoPDB": "1j8a",
+    "waterChange": -46
+  },
+  {
+    "holoPDB": "1jd0",
+    "apoPDB": "1jcz",
+    "waterChange": -26
+  },
+  {
+    "holoPDB": "1lzc",
+    "apoPDB": "1jis",
+    "waterChange": 11
+  },
+  {
+    "holoPDB": "1ljn",
+    "apoPDB": "1jse",
+    "waterChange": 13
+  },
+  {
+    "holoPDB": "1xbv",
+    "apoPDB": "1kv8",
+    "waterChange": -37
+  },
+  {
+    "holoPDB": "1kw6",
+    "apoPDB": "1kw3",
+    "waterChange": -6
+  },
+  {
+    "holoPDB": "2ray",
+    "apoPDB": "1l90",
+    "waterChange": 51
+  },
+  {
+    "holoPDB": "1lp4",
+    "apoPDB": "1lpu",
+    "waterChange": -51
+  },
+  {
+    "holoPDB": "1r80",
+    "apoPDB": "1lz7",
+    "waterChange": -30
+  },
+  {
+    "holoPDB": "1lze",
+    "apoPDB": "1lzd",
+    "waterChange": 2
+  },
+  {
+    "holoPDB": "1n2e",
+    "apoPDB": "1mop",
+    "waterChange": -39
+  },
+  {
+    "holoPDB": "3le8",
+    "apoPDB": "1mop",
+    "waterChange": -42
+  },
+  {
+    "holoPDB": "1ozq",
+    "apoPDB": "1ozm",
+    "waterChange": -16
+  },
+  {
+    "holoPDB": "1x84",
+    "apoPDB": "1pvf",
+    "waterChange": -80
+  },
+  {
+    "holoPDB": "1pxi",
+    "apoPDB": "1pw2",
+    "waterChange": 23
+  },
+  {
+    "holoPDB": "2a0c",
+    "apoPDB": "1pw2",
+    "waterChange": -59
+  },
+  {
+    "holoPDB": "3ql8",
+    "apoPDB": "1pw2",
+    "waterChange": -33
+  },
+  {
+    "holoPDB": "3ql8",
+    "apoPDB": "1pw2",
+    "waterChange": -33
+  },
+  {
+    "holoPDB": "3qqk",
+    "apoPDB": "1pw2",
+    "waterChange": -17
+  },
+  {
+    "holoPDB": "3qql",
+    "apoPDB": "1pw2",
+    "waterChange": 35
+  },
+  {
+    "holoPDB": "3qtw",
+    "apoPDB": "1pw2",
+    "waterChange": -54
+  },
+  {
+    "holoPDB": "3qu0",
+    "apoPDB": "1pw2",
+    "waterChange": -38
+  },
+  {
+    "holoPDB": "3qwk",
+    "apoPDB": "1pw2",
+    "waterChange": -4
+  },
+  {
+    "holoPDB": "3qx4",
+    "apoPDB": "1pw2",
+    "waterChange": -29
+  },
+  {
+    "holoPDB": "3qzh",
+    "apoPDB": "1pw2",
+    "waterChange": -12
+  },
+  {
+    "holoPDB": "3r1q",
+    "apoPDB": "1pw2",
+    "waterChange": -7
+  },
+  {
+    "holoPDB": "3r7e",
+    "apoPDB": "1pw2",
+    "waterChange": -17
+  },
+  {
+    "holoPDB": "3r7v",
+    "apoPDB": "1pw2",
+    "waterChange": -15
+  },
+  {
+    "holoPDB": "3r8v",
+    "apoPDB": "1pw2",
+    "waterChange": -11
+  },
+  {
+    "holoPDB": "3r9d",
+    "apoPDB": "1pw2",
+    "waterChange": -53
+  },
+  {
+    "holoPDB": "3rjc",
+    "apoPDB": "1pw2",
+    "waterChange": -54
+  },
+  {
+    "holoPDB": "3rk9",
+    "apoPDB": "1pw2",
+    "waterChange": -21
+  },
+  {
+    "holoPDB": "3rm7",
+    "apoPDB": "1pw2",
+    "waterChange": -24
+  },
+  {
+    "holoPDB": "3rni",
+    "apoPDB": "1pw2",
+    "waterChange": -56
+  },
+  {
+    "holoPDB": "3unj",
+    "apoPDB": "1pw2",
+    "waterChange": -17
+  },
+  {
+    "holoPDB": "2orj",
+    "apoPDB": "1pw9",
+    "waterChange": 12
+  },
+  {
+    "holoPDB": "2os9",
+    "apoPDB": "1pw9",
+    "waterChange": 14
+  },
+  {
+    "holoPDB": "1qxr",
+    "apoPDB": "1qxj",
+    "waterChange": -83
+  },
+  {
+    "holoPDB": "1qy4",
+    "apoPDB": "1qxj",
+    "waterChange": -53
+  },
+  {
+    "holoPDB": "1rge",
+    "apoPDB": "1rgh",
+    "waterChange": -23
+  },
+  {
+    "holoPDB": "2sar",
+    "apoPDB": "1sar",
+    "waterChange": -26
+  },
+  {
+    "holoPDB": "5hh5",
+    "apoPDB": "1sml",
+    "waterChange": -45
+  },
+  {
+    "holoPDB": "1d4h",
+    "apoPDB": "1sp5",
+    "waterChange": -21
+  },
+  {
+    "holoPDB": "1d4i",
+    "apoPDB": "1sp5",
+    "waterChange": -19
+  },
+  {
+    "holoPDB": "1ec0",
+    "apoPDB": "1sp5",
+    "waterChange": -29
+  },
+  {
+    "holoPDB": "1iiq",
+    "apoPDB": "1sp5",
+    "waterChange": 73
+  },
+  {
+    "holoPDB": "1w5v",
+    "apoPDB": "1sp5",
+    "waterChange": -14
+  },
+  {
+    "holoPDB": "1w5w",
+    "apoPDB": "1sp5",
+    "waterChange": -4
+  },
+  {
+    "holoPDB": "1w5x",
+    "apoPDB": "1sp5",
+    "waterChange": -8
+  },
+  {
+    "holoPDB": "1xl5",
+    "apoPDB": "1sp5",
+    "waterChange": 16
+  },
+  {
+    "holoPDB": "2pwc",
+    "apoPDB": "1sp5",
+    "waterChange": 0
+  },
+  {
+    "holoPDB": "3bgb",
+    "apoPDB": "1sp5",
+    "waterChange": -7
+  },
+  {
+    "holoPDB": "1zha",
+    "apoPDB": "1t99",
+    "waterChange": 45
+  },
+  {
+    "holoPDB": "1qbo",
+    "apoPDB": "1tgc",
+    "waterChange": 28
+  },
+  {
+    "holoPDB": "2zdl",
+    "apoPDB": "1tgc",
+    "waterChange": 92
+  },
+  {
+    "holoPDB": "2zft",
+    "apoPDB": "1tgc",
+    "waterChange": 104
+  },
+  {
+    "holoPDB": "1tky",
+    "apoPDB": "1tje",
+    "waterChange": -30
+  },
+  {
+    "holoPDB": "1tku",
+    "apoPDB": "1tks",
+    "waterChange": 4
+  },
+  {
+    "holoPDB": "1u0f",
+    "apoPDB": "1u0e",
+    "waterChange": -159
+  },
+  {
+    "holoPDB": "2zbr",
+    "apoPDB": "1ufk",
+    "waterChange": 59
+  },
+  {
+    "holoPDB": "1uj6",
+    "apoPDB": "1uj4",
+    "waterChange": 15
+  },
+  {
+    "holoPDB": "4mtb",
+    "apoPDB": "1utq",
+    "waterChange": -1
+  },
+  {
+    "holoPDB": "4baf",
+    "apoPDB": "1vat",
+    "waterChange": 8
+  },
+  {
+    "holoPDB": "1xzc",
+    "apoPDB": "1xza",
+    "waterChange": -14
+  },
+  {
+    "holoPDB": "4i3p",
+    "apoPDB": "1yfu",
+    "waterChange": -49
+  },
+  {
+    "holoPDB": "2ats",
+    "apoPDB": "1yxc",
+    "waterChange": -27
+  },
+  {
+    "holoPDB": "2piy",
+    "apoPDB": "1z5r",
+    "waterChange": -83
+  },
+  {
+    "holoPDB": "2dio",
+    "apoPDB": "1z8k",
+    "waterChange": -233
+  },
+  {
+    "holoPDB": "1zaj",
+    "apoPDB": "1zah",
+    "waterChange": -15
+  },
+  {
+    "holoPDB": "1zai",
+    "apoPDB": "1zal",
+    "waterChange": 162
+  },
+  {
+    "holoPDB": "3cfn",
+    "apoPDB": "1zcr",
+    "waterChange": 41
+  },
+  {
+    "holoPDB": "3fcb",
+    "apoPDB": "1zcr",
+    "waterChange": -2
+  },
+  {
+    "holoPDB": "3gs4",
+    "apoPDB": "1zcr",
+    "waterChange": -12
+  },
+  {
+    "holoPDB": "3cft",
+    "apoPDB": "1zd6",
+    "waterChange": -5
+  },
+  {
+    "holoPDB": "4der",
+    "apoPDB": "1zd6",
+    "waterChange": -16
+  },
+  {
+    "holoPDB": "4ikl",
+    "apoPDB": "1zd6",
+    "waterChange": -2
+  },
+  {
+    "holoPDB": "4cr9",
+    "apoPDB": "1zhr",
+    "waterChange": 14
+  },
+  {
+    "holoPDB": "4cra",
+    "apoPDB": "1zhr",
+    "waterChange": -43
+  },
+  {
+    "holoPDB": "2pwd",
+    "apoPDB": "1zja",
+    "waterChange": -241
+  },
+  {
+    "holoPDB": "2f2t",
+    "apoPDB": "2a0k",
+    "waterChange": -34
+  },
+  {
+    "holoPDB": "2afx",
+    "apoPDB": "2afz",
+    "waterChange": 0
+  },
+  {
+    "holoPDB": "3oim",
+    "apoPDB": "2ax2",
+    "waterChange": 21
+  },
+  {
+    "holoPDB": "3oku",
+    "apoPDB": "2ax2",
+    "waterChange": 64
+  },
+  {
+    "holoPDB": "5n24",
+    "apoPDB": "2ax2",
+    "waterChange": 10
+  },
+  {
+    "holoPDB": "5ty8",
+    "apoPDB": "2ax2",
+    "waterChange": 25
+  },
+  {
+    "holoPDB": "2gz5",
+    "apoPDB": "2b3h",
+    "waterChange": -80
+  },
+  {
+    "holoPDB": "3r49",
+    "apoPDB": "2bit",
+    "waterChange": -48
+  },
+  {
+    "holoPDB": "3r57",
+    "apoPDB": "2bit",
+    "waterChange": 8
+  },
+  {
+    "holoPDB": "3rcl",
+    "apoPDB": "2bit",
+    "waterChange": -11
+  },
+  {
+    "holoPDB": "2bur",
+    "apoPDB": "2but",
+    "waterChange": 42
+  },
+  {
+    "holoPDB": "2buu",
+    "apoPDB": "2but",
+    "waterChange": 25
+  },
+  {
+    "holoPDB": "2buv",
+    "apoPDB": "2but",
+    "waterChange": 11
+  },
+  {
+    "holoPDB": "2buw",
+    "apoPDB": "2but",
+    "waterChange": 33
+  },
+  {
+    "holoPDB": "2buz",
+    "apoPDB": "2bux",
+    "waterChange": -6
+  },
+  {
+    "holoPDB": "2bv0",
+    "apoPDB": "2bux",
+    "waterChange": 0
+  },
+  {
+    "holoPDB": "3m40",
+    "apoPDB": "2cbb",
+    "waterChange": 8
+  },
+  {
+    "holoPDB": "3m5e",
+    "apoPDB": "2cbb",
+    "waterChange": 58
+  },
+  {
+    "holoPDB": "3n4b",
+    "apoPDB": "2cbb",
+    "waterChange": 48
+  },
+  {
+    "holoPDB": "3rz5",
+    "apoPDB": "2cbb",
+    "waterChange": 22
+  },
+  {
+    "holoPDB": "5u0d",
+    "apoPDB": "2cbb",
+    "waterChange": 52
+  },
+  {
+    "holoPDB": "2d20",
+    "apoPDB": "2d23",
+    "waterChange": 21
+  },
+  {
+    "holoPDB": "3trn",
+    "apoPDB": "2d4m",
+    "waterChange": -5
+  },
+  {
+    "holoPDB": "2dvx",
+    "apoPDB": "2dvt",
+    "waterChange": -78
+  },
+  {
+    "holoPDB": "3gf2",
+    "apoPDB": "2eb7",
+    "waterChange": 40
+  },
+  {
+    "holoPDB": "2bja",
+    "apoPDB": "2ejd",
+    "waterChange": -135
+  },
+  {
+    "holoPDB": "2ex8",
+    "apoPDB": "2ex2",
+    "waterChange": -18
+  },
+  {
+    "holoPDB": "2h5z",
+    "apoPDB": "2fbd",
+    "waterChange": -36
+  },
+  {
+    "holoPDB": "5boj",
+    "apoPDB": "2g4g",
+    "waterChange": 66
+  },
+  {
+    "holoPDB": "1qcp",
+    "apoPDB": "2g55",
+    "waterChange": 30
+  },
+  {
+    "holoPDB": "2h6q",
+    "apoPDB": "2h68",
+    "waterChange": -58
+  },
+  {
+    "holoPDB": "2q2n",
+    "apoPDB": "2hk6",
+    "waterChange": -88
+  },
+  {
+    "holoPDB": "5y0f",
+    "apoPDB": "2hnx",
+    "waterChange": -21
+  },
+  {
+    "holoPDB": "5y0g",
+    "apoPDB": "2hnx",
+    "waterChange": -22
+  },
+  {
+    "holoPDB": "2zxg",
+    "apoPDB": "2hpo",
+    "waterChange": -1013
+  },
+  {
+    "holoPDB": "5ny6",
+    "apoPDB": "2ili",
+    "waterChange": -48
+  },
+  {
+    "holoPDB": "2bhp",
+    "apoPDB": "2iy6",
+    "waterChange": -110
+  },
+  {
+    "holoPDB": "2ehu",
+    "apoPDB": "2iy6",
+    "waterChange": -158
+  },
+  {
+    "holoPDB": "2eii",
+    "apoPDB": "2iy6",
+    "waterChange": -123
+  },
+  {
+    "holoPDB": "2wbw",
+    "apoPDB": "2j12",
+    "waterChange": 134
+  },
+  {
+    "holoPDB": "3gy2",
+    "apoPDB": "2j9n",
+    "waterChange": 78
+  },
+  {
+    "holoPDB": "3gy5",
+    "apoPDB": "2j9n",
+    "waterChange": 84
+  },
+  {
+    "holoPDB": "1c27",
+    "apoPDB": "2mat",
+    "waterChange": -25
+  },
+  {
+    "holoPDB": "2nn8",
+    "apoPDB": "2nmo",
+    "waterChange": 31
+  },
+  {
+    "holoPDB": "6b8k",
+    "apoPDB": "2nmo",
+    "waterChange": 39
+  },
+  {
+    "holoPDB": "6qgf",
+    "apoPDB": "2nmo",
+    "waterChange": 31
+  },
+  {
+    "holoPDB": "4f3i",
+    "apoPDB": "2oss",
+    "waterChange": -29
+  },
+  {
+    "holoPDB": "5e0r",
+    "apoPDB": "2oss",
+    "waterChange": -67
+  },
+  {
+    "holoPDB": "2oun",
+    "apoPDB": "2oup",
+    "waterChange": -8
+  },
+  {
+    "holoPDB": "3f1a",
+    "apoPDB": "2oxu",
+    "waterChange": 17
+  },
+  {
+    "holoPDB": "6eox",
+    "apoPDB": "2oxu",
+    "waterChange": 6
+  },
+  {
+    "holoPDB": "3f17",
+    "apoPDB": "2oxw",
+    "waterChange": 16
+  },
+  {
+    "holoPDB": "3f18",
+    "apoPDB": "2oxw",
+    "waterChange": 12
+  },
+  {
+    "holoPDB": "3ehx",
+    "apoPDB": "2oxz",
+    "waterChange": 27
+  },
+  {
+    "holoPDB": "3ehy",
+    "apoPDB": "2oxz",
+    "waterChange": 22
+  },
+  {
+    "holoPDB": "3lk8",
+    "apoPDB": "2oxz",
+    "waterChange": 33
+  },
+  {
+    "holoPDB": "3lka",
+    "apoPDB": "2oxz",
+    "waterChange": 29
+  },
+  {
+    "holoPDB": "3rts",
+    "apoPDB": "2oxz",
+    "waterChange": 38
+  },
+  {
+    "holoPDB": "3rtt",
+    "apoPDB": "2oxz",
+    "waterChange": -26
+  },
+  {
+    "holoPDB": "3mfv",
+    "apoPDB": "2pho",
+    "waterChange": 98
+  },
+  {
+    "holoPDB": "4qf7",
+    "apoPDB": "2q1p",
+    "waterChange": -6
+  },
+  {
+    "holoPDB": "2qge",
+    "apoPDB": "2qgb",
+    "waterChange": -12
+  },
+  {
+    "holoPDB": "3cn4",
+    "apoPDB": "2qgb",
+    "waterChange": -48
+  },
+  {
+    "holoPDB": "3esp",
+    "apoPDB": "2qgb",
+    "waterChange": -29
+  },
+  {
+    "holoPDB": "2rct",
+    "apoPDB": "2rcq",
+    "waterChange": -10
+  },
+  {
+    "holoPDB": "2rfy",
+    "apoPDB": "2rfw",
+    "waterChange": 207
+  },
+  {
+    "holoPDB": "2rht",
+    "apoPDB": "2ri6",
+    "waterChange": -9
+  },
+  {
+    "holoPDB": "1qbo",
+    "apoPDB": "2tga",
+    "waterChange": 31
+  },
+  {
+    "holoPDB": "2zdk",
+    "apoPDB": "2tga",
+    "waterChange": 122
+  },
+  {
+    "holoPDB": "2zq1",
+    "apoPDB": "2tga",
+    "waterChange": 95
+  },
+  {
+    "holoPDB": "2vb8",
+    "apoPDB": "2vb9",
+    "waterChange": 111
+  },
+  {
+    "holoPDB": "2bf6",
+    "apoPDB": "2vk5",
+    "waterChange": -132
+  },
+  {
+    "holoPDB": "3m2n",
+    "apoPDB": "2vva",
+    "waterChange": -64
+  },
+  {
+    "holoPDB": "3n0n",
+    "apoPDB": "2vva",
+    "waterChange": -44
+  },
+  {
+    "holoPDB": "3n3j",
+    "apoPDB": "2vva",
+    "waterChange": -37
+  },
+  {
+    "holoPDB": "3p3h",
+    "apoPDB": "2vva",
+    "waterChange": -30
+  },
+  {
+    "holoPDB": "3po6",
+    "apoPDB": "2vva",
+    "waterChange": -51
+  },
+  {
+    "holoPDB": "3t5z",
+    "apoPDB": "2vva",
+    "waterChange": -31
+  },
+  {
+    "holoPDB": "4qsa",
+    "apoPDB": "2vva",
+    "waterChange": -87
+  },
+  {
+    "holoPDB": "4rn4",
+    "apoPDB": "2vva",
+    "waterChange": -77
+  },
+  {
+    "holoPDB": "4z1n",
+    "apoPDB": "2vva",
+    "waterChange": -117
+  },
+  {
+    "holoPDB": "5e2s",
+    "apoPDB": "2vva",
+    "waterChange": -33
+  },
+  {
+    "holoPDB": "5ty9",
+    "apoPDB": "2vva",
+    "waterChange": -65
+  },
+  {
+    "holoPDB": "5tya",
+    "apoPDB": "2vva",
+    "waterChange": -40
+  },
+  {
+    "holoPDB": "5u0g",
+    "apoPDB": "2vva",
+    "waterChange": -66
+  },
+  {
+    "holoPDB": "3n2p",
+    "apoPDB": "2vvb",
+    "waterChange": -37
+  },
+  {
+    "holoPDB": "5ty1",
+    "apoPDB": "2vvb",
+    "waterChange": 17
+  },
+  {
+    "holoPDB": "6ciw",
+    "apoPDB": "2x0a",
+    "waterChange": -53
+  },
+  {
+    "holoPDB": "2yaj",
+    "apoPDB": "2y8n",
+    "waterChange": -299
+  },
+  {
+    "holoPDB": "2ya8",
+    "apoPDB": "2ya4",
+    "waterChange": -9
+  },
+  {
+    "holoPDB": "2yax",
+    "apoPDB": "2yav",
+    "waterChange": -567
+  },
+  {
+    "holoPDB": "2yvo",
+    "apoPDB": "2yvm",
+    "waterChange": 3
+  },
+  {
+    "holoPDB": "2yvp",
+    "apoPDB": "2yvm",
+    "waterChange": 5
+  },
+  {
+    "holoPDB": "2qes",
+    "apoPDB": "2z4u",
+    "waterChange": -42
+  },
+  {
+    "holoPDB": "2z3c",
+    "apoPDB": "2z94",
+    "waterChange": -103
+  },
+  {
+    "holoPDB": "3szn",
+    "apoPDB": "2z94",
+    "waterChange": 34
+  },
+  {
+    "holoPDB": "2gx4",
+    "apoPDB": "2z9g",
+    "waterChange": -131
+  },
+  {
+    "holoPDB": "2hob",
+    "apoPDB": "2z9g",
+    "waterChange": -85
+  },
+  {
+    "holoPDB": "2zu4",
+    "apoPDB": "2z9g",
+    "waterChange": -202
+  },
+  {
+    "holoPDB": "3acw",
+    "apoPDB": "2zco",
+    "waterChange": -61
+  },
+  {
+    "holoPDB": "5uyu",
+    "apoPDB": "2zhv",
+    "waterChange": 31
+  },
+  {
+    "holoPDB": "2zqa",
+    "apoPDB": "2zq7",
+    "waterChange": -34
+  },
+  {
+    "holoPDB": "2zu3",
+    "apoPDB": "2ztx",
+    "waterChange": -29
+  },
+  {
+    "holoPDB": "3a72",
+    "apoPDB": "3a71",
+    "waterChange": -10
+  },
+  {
+    "holoPDB": "6a1c",
+    "apoPDB": "3at2",
+    "waterChange": -169
+  },
+  {
+    "holoPDB": "1bjv",
+    "apoPDB": "3atk",
+    "waterChange": -76
+  },
+  {
+    "holoPDB": "3a7t",
+    "apoPDB": "3atk",
+    "waterChange": 31
+  },
+  {
+    "holoPDB": "3a7v",
+    "apoPDB": "3atk",
+    "waterChange": 60
+  },
+  {
+    "holoPDB": "3a7w",
+    "apoPDB": "3atk",
+    "waterChange": 47
+  },
+  {
+    "holoPDB": "3a7y",
+    "apoPDB": "3atk",
+    "waterChange": 49
+  },
+  {
+    "holoPDB": "3a7z",
+    "apoPDB": "3atk",
+    "waterChange": 30
+  },
+  {
+    "holoPDB": "3a81",
+    "apoPDB": "3atk",
+    "waterChange": 31
+  },
+  {
+    "holoPDB": "3a82",
+    "apoPDB": "3atk",
+    "waterChange": -4
+  },
+  {
+    "holoPDB": "3a83",
+    "apoPDB": "3atk",
+    "waterChange": 26
+  },
+  {
+    "holoPDB": "3a84",
+    "apoPDB": "3atk",
+    "waterChange": 4
+  },
+  {
+    "holoPDB": "3a87",
+    "apoPDB": "3atk",
+    "waterChange": 25
+  },
+  {
+    "holoPDB": "3a88",
+    "apoPDB": "3atk",
+    "waterChange": 19
+  },
+  {
+    "holoPDB": "3a89",
+    "apoPDB": "3atk",
+    "waterChange": 24
+  },
+  {
+    "holoPDB": "3a8b",
+    "apoPDB": "3atk",
+    "waterChange": 0
+  },
+  {
+    "holoPDB": "3aau",
+    "apoPDB": "3atk",
+    "waterChange": -20
+  },
+  {
+    "holoPDB": "3ati",
+    "apoPDB": "3atk",
+    "waterChange": -14
+  },
+  {
+    "holoPDB": "3atm",
+    "apoPDB": "3atk",
+    "waterChange": 24
+  },
+  {
+    "holoPDB": "3rxb",
+    "apoPDB": "3atk",
+    "waterChange": 36
+  },
+  {
+    "holoPDB": "3rxd",
+    "apoPDB": "3atk",
+    "waterChange": 7
+  },
+  {
+    "holoPDB": "3rxj",
+    "apoPDB": "3atk",
+    "waterChange": 8
+  },
+  {
+    "holoPDB": "3rxm",
+    "apoPDB": "3atk",
+    "waterChange": 24
+  },
+  {
+    "holoPDB": "3rxs",
+    "apoPDB": "3atk",
+    "waterChange": -4
+  },
+  {
+    "holoPDB": "3rxt",
+    "apoPDB": "3atk",
+    "waterChange": 2
+  },
+  {
+    "holoPDB": "4cjt",
+    "apoPDB": "3ava",
+    "waterChange": -18
+  },
+  {
+    "holoPDB": "4ceb",
+    "apoPDB": "3avc",
+    "waterChange": 16
+  },
+  {
+    "holoPDB": "4cec",
+    "apoPDB": "3avc",
+    "waterChange": 39
+  },
+  {
+    "holoPDB": "4ced",
+    "apoPDB": "3avc",
+    "waterChange": 11
+  },
+  {
+    "holoPDB": "4cef",
+    "apoPDB": "3avc",
+    "waterChange": 16
+  },
+  {
+    "holoPDB": "4ceq",
+    "apoPDB": "3avc",
+    "waterChange": 35
+  },
+  {
+    "holoPDB": "4cer",
+    "apoPDB": "3avc",
+    "waterChange": 44
+  },
+  {
+    "holoPDB": "4cez",
+    "apoPDB": "3avc",
+    "waterChange": 45
+  },
+  {
+    "holoPDB": "4cgh",
+    "apoPDB": "3avc",
+    "waterChange": -28
+  },
+  {
+    "holoPDB": "4cho",
+    "apoPDB": "3avc",
+    "waterChange": -12
+  },
+  {
+    "holoPDB": "4cju",
+    "apoPDB": "3avc",
+    "waterChange": 3
+  },
+  {
+    "holoPDB": "4ck1",
+    "apoPDB": "3avc",
+    "waterChange": 16
+  },
+  {
+    "holoPDB": "4ovl",
+    "apoPDB": "3avc",
+    "waterChange": 1
+  },
+  {
+    "holoPDB": "4chp",
+    "apoPDB": "3avh",
+    "waterChange": -3
+  },
+  {
+    "holoPDB": "4cf8",
+    "apoPDB": "3avk",
+    "waterChange": 9
+  },
+  {
+    "holoPDB": "4cee",
+    "apoPDB": "3avl",
+    "waterChange": -4
+  },
+  {
+    "holoPDB": "4ceo",
+    "apoPDB": "3avl",
+    "waterChange": -23
+  },
+  {
+    "holoPDB": "4ces",
+    "apoPDB": "3avl",
+    "waterChange": -18
+  },
+  {
+    "holoPDB": "4cf0",
+    "apoPDB": "3avl",
+    "waterChange": -44
+  },
+  {
+    "holoPDB": "4cf1",
+    "apoPDB": "3avl",
+    "waterChange": -38
+  },
+  {
+    "holoPDB": "4cf2",
+    "apoPDB": "3avl",
+    "waterChange": -69
+  },
+  {
+    "holoPDB": "4cfb",
+    "apoPDB": "3avl",
+    "waterChange": -39
+  },
+  {
+    "holoPDB": "4cfc",
+    "apoPDB": "3avl",
+    "waterChange": -37
+  },
+  {
+    "holoPDB": "4cif",
+    "apoPDB": "3avl",
+    "waterChange": 5
+  },
+  {
+    "holoPDB": "4cj5",
+    "apoPDB": "3avl",
+    "waterChange": -46
+  },
+  {
+    "holoPDB": "4cjw",
+    "apoPDB": "3avl",
+    "waterChange": -57
+  },
+  {
+    "holoPDB": "5z0h",
+    "apoPDB": "3aws",
+    "waterChange": 8
+  },
+  {
+    "holoPDB": "5z0i",
+    "apoPDB": "3ax0",
+    "waterChange": 13
+  },
+  {
+    "holoPDB": "3b00",
+    "apoPDB": "3azy",
+    "waterChange": -28
+  },
+  {
+    "holoPDB": "2zxg",
+    "apoPDB": "3b2x",
+    "waterChange": -42
+  },
+  {
+    "holoPDB": "5yq1",
+    "apoPDB": "3b2x",
+    "waterChange": -317
+  },
+  {
+    "holoPDB": "5yq2",
+    "apoPDB": "3b2x",
+    "waterChange": -171
+  },
+  {
+    "holoPDB": "5yqb",
+    "apoPDB": "3b2x",
+    "waterChange": -179
+  },
+  {
+    "holoPDB": "4tq8",
+    "apoPDB": "3cfm",
+    "waterChange": -33
+  },
+  {
+    "holoPDB": "4tqp",
+    "apoPDB": "3cfm",
+    "waterChange": 22
+  },
+  {
+    "holoPDB": "5l4j",
+    "apoPDB": "3cfm",
+    "waterChange": -54
+  },
+  {
+    "holoPDB": "5l4m",
+    "apoPDB": "3cfm",
+    "waterChange": -19
+  },
+  {
+    "holoPDB": "3csz",
+    "apoPDB": "3csr",
+    "waterChange": 15
+  },
+  {
+    "holoPDB": "3ct0",
+    "apoPDB": "3csr",
+    "waterChange": -2
+  },
+  {
+    "holoPDB": "3fc8",
+    "apoPDB": "3d7p",
+    "waterChange": -26
+  },
+  {
+    "holoPDB": "4yx4",
+    "apoPDB": "3d92",
+    "waterChange": -45
+  },
+  {
+    "holoPDB": "4yxo",
+    "apoPDB": "3d92",
+    "waterChange": -61
+  },
+  {
+    "holoPDB": "4yyt",
+    "apoPDB": "3d92",
+    "waterChange": -43
+  },
+  {
+    "holoPDB": "6gdc",
+    "apoPDB": "3d92",
+    "waterChange": -22
+  },
+  {
+    "holoPDB": "6gm9",
+    "apoPDB": "3d92",
+    "waterChange": -12
+  },
+  {
+    "holoPDB": "3hs4",
+    "apoPDB": "3d93",
+    "waterChange": -8
+  },
+  {
+    "holoPDB": "4ww6",
+    "apoPDB": "3d93",
+    "waterChange": -43
+  },
+  {
+    "holoPDB": "5drs",
+    "apoPDB": "3d93",
+    "waterChange": -60
+  },
+  {
+    "holoPDB": "5nxw",
+    "apoPDB": "3d93",
+    "waterChange": -7
+  },
+  {
+    "holoPDB": "5a5n",
+    "apoPDB": "3dai",
+    "waterChange": -6
+  },
+  {
+    "holoPDB": "5a5q",
+    "apoPDB": "3dai",
+    "waterChange": 11
+  },
+  {
+    "holoPDB": "5a82",
+    "apoPDB": "3dai",
+    "waterChange": -26
+  },
+  {
+    "holoPDB": "6hdn",
+    "apoPDB": "3dai",
+    "waterChange": -3
+  },
+  {
+    "holoPDB": "3ip8",
+    "apoPDB": "3dg9",
+    "waterChange": -18
+  },
+  {
+    "holoPDB": "3fgd",
+    "apoPDB": "3do0",
+    "waterChange": 96
+  },
+  {
+    "holoPDB": "1xz3",
+    "apoPDB": "3f32",
+    "waterChange": 0
+  },
+  {
+    "holoPDB": "3f33",
+    "apoPDB": "3f32",
+    "waterChange": -10
+  },
+  {
+    "holoPDB": "3f34",
+    "apoPDB": "3f32",
+    "waterChange": -18
+  },
+  {
+    "holoPDB": "3f36",
+    "apoPDB": "3f32",
+    "waterChange": -23
+  },
+  {
+    "holoPDB": "3f78",
+    "apoPDB": "3f74",
+    "waterChange": -83
+  },
+  {
+    "holoPDB": "4ibg",
+    "apoPDB": "3fke",
+    "waterChange": -37
+  },
+  {
+    "holoPDB": "4ibi",
+    "apoPDB": "3fke",
+    "waterChange": -21
+  },
+  {
+    "holoPDB": "3grr",
+    "apoPDB": "3fyd",
+    "waterChange": -73
+  },
+  {
+    "holoPDB": "3gl0",
+    "apoPDB": "3gke",
+    "waterChange": 8
+  },
+  {
+    "holoPDB": "3mfw",
+    "apoPDB": "3gmz",
+    "waterChange": 21
+  },
+  {
+    "holoPDB": "3gnr",
+    "apoPDB": "3gno",
+    "waterChange": 12
+  },
+  {
+    "holoPDB": "4z1k",
+    "apoPDB": "3gz0",
+    "waterChange": 25
+  },
+  {
+    "holoPDB": "6b4d",
+    "apoPDB": "3gz0",
+    "waterChange": 87
+  },
+  {
+    "holoPDB": "3hlw",
+    "apoPDB": "3hre",
+    "waterChange": -143
+  },
+  {
+    "holoPDB": "3k5x",
+    "apoPDB": "3id7",
+    "waterChange": -20
+  },
+  {
+    "holoPDB": "1lzb",
+    "apoPDB": "3iju",
+    "waterChange": 17
+  },
+  {
+    "holoPDB": "6gx0",
+    "apoPDB": "3ioh",
+    "waterChange": 36
+  },
+  {
+    "holoPDB": "3mul",
+    "apoPDB": "3jvj",
+    "waterChange": 18
+  },
+  {
+    "holoPDB": "3hku",
+    "apoPDB": "3k7k",
+    "waterChange": 57
+  },
+  {
+    "holoPDB": "3nb5",
+    "apoPDB": "3k7k",
+    "waterChange": -54
+  },
+  {
+    "holoPDB": "4m2r",
+    "apoPDB": "3k7k",
+    "waterChange": -134
+  },
+  {
+    "holoPDB": "4m2u",
+    "apoPDB": "3k7k",
+    "waterChange": -89
+  },
+  {
+    "holoPDB": "4qsi",
+    "apoPDB": "3k7k",
+    "waterChange": -48
+  },
+  {
+    "holoPDB": "5eij",
+    "apoPDB": "3k7k",
+    "waterChange": -84
+  },
+  {
+    "holoPDB": "5lle",
+    "apoPDB": "3k7k",
+    "waterChange": -8
+  },
+  {
+    "holoPDB": "4n87",
+    "apoPDB": "3kgs",
+    "waterChange": -74
+  },
+  {
+    "holoPDB": "4qrf",
+    "apoPDB": "3kgs",
+    "waterChange": -76
+  },
+  {
+    "holoPDB": "3ryz",
+    "apoPDB": "3kok",
+    "waterChange": 68
+  },
+  {
+    "holoPDB": "3s9t",
+    "apoPDB": "3kok",
+    "waterChange": 1
+  },
+  {
+    "holoPDB": "3zp9",
+    "apoPDB": "3kok",
+    "waterChange": -65
+  },
+  {
+    "holoPDB": "4mdg",
+    "apoPDB": "3kok",
+    "waterChange": 19
+  },
+  {
+    "holoPDB": "4z0q",
+    "apoPDB": "3kok",
+    "waterChange": -24
+  },
+  {
+    "holoPDB": "5eh8",
+    "apoPDB": "3kok",
+    "waterChange": -9
+  },
+  {
+    "holoPDB": "5ehw",
+    "apoPDB": "3kok",
+    "waterChange": 47
+  },
+  {
+    "holoPDB": "5n1r",
+    "apoPDB": "3kok",
+    "waterChange": 38
+  },
+  {
+    "holoPDB": "5n1s",
+    "apoPDB": "3kok",
+    "waterChange": 46
+  },
+  {
+    "holoPDB": "5ny3",
+    "apoPDB": "3kok",
+    "waterChange": 57
+  },
+  {
+    "holoPDB": "5vgy",
+    "apoPDB": "3kok",
+    "waterChange": 34
+  },
+  {
+    "holoPDB": "6oe0",
+    "apoPDB": "3kok",
+    "waterChange": 65
+  },
+  {
+    "holoPDB": "6oe1",
+    "apoPDB": "3kok",
+    "waterChange": 54
+  },
+  {
+    "holoPDB": "3sbi",
+    "apoPDB": "3kon",
+    "waterChange": -4
+  },
+  {
+    "holoPDB": "4z1n",
+    "apoPDB": "3kon",
+    "waterChange": -23
+  },
+  {
+    "holoPDB": "3u0e",
+    "apoPDB": "3lrf",
+    "waterChange": -110
+  },
+  {
+    "holoPDB": "6ebe",
+    "apoPDB": "3m1j",
+    "waterChange": -121
+  },
+  {
+    "holoPDB": "6eda",
+    "apoPDB": "3m1j",
+    "waterChange": -121
+  },
+  {
+    "holoPDB": "3mfl",
+    "apoPDB": "3mi1",
+    "waterChange": -93
+  },
+  {
+    "holoPDB": "3thh",
+    "apoPDB": "3mjl",
+    "waterChange": -14
+  },
+  {
+    "holoPDB": "4fck",
+    "apoPDB": "3mjl",
+    "waterChange": -16
+  },
+  {
+    "holoPDB": "3nv3",
+    "apoPDB": "3nv1",
+    "waterChange": -24
+  },
+  {
+    "holoPDB": "3ut6",
+    "apoPDB": "3onv",
+    "waterChange": -49
+  },
+  {
+    "holoPDB": "4a9k",
+    "apoPDB": "3p1d",
+    "waterChange": 47
+  },
+  {
+    "holoPDB": "3reu",
+    "apoPDB": "3p8y",
+    "waterChange": -138
+  },
+  {
+    "holoPDB": "3rex",
+    "apoPDB": "3p8y",
+    "waterChange": -68
+  },
+  {
+    "holoPDB": "3pb8",
+    "apoPDB": "3pb6",
+    "waterChange": 19
+  },
+  {
+    "holoPDB": "1tx7",
+    "apoPDB": "3ptb",
+    "waterChange": 35
+  },
+  {
+    "holoPDB": "1mb4",
+    "apoPDB": "3q0e",
+    "waterChange": -101
+  },
+  {
+    "holoPDB": "3qff",
+    "apoPDB": "3q2o",
+    "waterChange": -102
+  },
+  {
+    "holoPDB": "3pa2",
+    "apoPDB": "3q6q",
+    "waterChange": -9
+  },
+  {
+    "holoPDB": "3q3a",
+    "apoPDB": "3q6q",
+    "waterChange": -22
+  },
+  {
+    "holoPDB": "6rvg",
+    "apoPDB": "3qmp",
+    "waterChange": -140
+  },
+  {
+    "holoPDB": "3v7z",
+    "apoPDB": "3qnv",
+    "waterChange": 55
+  },
+  {
+    "holoPDB": "3rci",
+    "apoPDB": "3qyu",
+    "waterChange": 66
+  },
+  {
+    "holoPDB": "4zsc",
+    "apoPDB": "3qyu",
+    "waterChange": -22
+  },
+  {
+    "holoPDB": "4zsd",
+    "apoPDB": "3qyu",
+    "waterChange": -17
+  },
+  {
+    "holoPDB": "3r56",
+    "apoPDB": "3r54",
+    "waterChange": -57
+  },
+  {
+    "holoPDB": "3rck",
+    "apoPDB": "3r54",
+    "waterChange": -110
+  },
+  {
+    "holoPDB": "3rd9",
+    "apoPDB": "3r54",
+    "waterChange": 10
+  },
+  {
+    "holoPDB": "4j58",
+    "apoPDB": "3r54",
+    "waterChange": -36
+  },
+  {
+    "holoPDB": "4j5d",
+    "apoPDB": "3r54",
+    "waterChange": -80
+  },
+  {
+    "holoPDB": "3r4g",
+    "apoPDB": "3rcg",
+    "waterChange": -64
+  },
+  {
+    "holoPDB": "4j5c",
+    "apoPDB": "3rcg",
+    "waterChange": -96
+  },
+  {
+    "holoPDB": "4j5e",
+    "apoPDB": "3rcg",
+    "waterChange": -93
+  },
+  {
+    "holoPDB": "3s20",
+    "apoPDB": "3row",
+    "waterChange": -65
+  },
+  {
+    "holoPDB": "3a34",
+    "apoPDB": "3rt5",
+    "waterChange": 38
+  },
+  {
+    "holoPDB": "3ems",
+    "apoPDB": "3rt5",
+    "waterChange": 38
+  },
+  {
+    "holoPDB": "3aau",
+    "apoPDB": "3rxr",
+    "waterChange": -32
+  },
+  {
+    "holoPDB": "3p6d",
+    "apoPDB": "3rzy",
+    "waterChange": 40
+  },
+  {
+    "holoPDB": "3p6e",
+    "apoPDB": "3rzy",
+    "waterChange": -1
+  },
+  {
+    "holoPDB": "3p6h",
+    "apoPDB": "3rzy",
+    "waterChange": 0
+  },
+  {
+    "holoPDB": "3s0d",
+    "apoPDB": "3s0a",
+    "waterChange": 15
+  },
+  {
+    "holoPDB": "3oys",
+    "apoPDB": "3s76",
+    "waterChange": -76
+  },
+  {
+    "holoPDB": "3rz1",
+    "apoPDB": "3s76",
+    "waterChange": -13
+  },
+  {
+    "holoPDB": "3v5g",
+    "apoPDB": "3s76",
+    "waterChange": 44
+  },
+  {
+    "holoPDB": "4kuw",
+    "apoPDB": "3s76",
+    "waterChange": 31
+  },
+  {
+    "holoPDB": "4kv0",
+    "apoPDB": "3s76",
+    "waterChange": 28
+  },
+  {
+    "holoPDB": "4q81",
+    "apoPDB": "3s76",
+    "waterChange": -76
+  },
+  {
+    "holoPDB": "3szb",
+    "apoPDB": "3sza",
+    "waterChange": 21
+  },
+  {
+    "holoPDB": "3tou",
+    "apoPDB": "3tot",
+    "waterChange": 23
+  },
+  {
+    "holoPDB": "3twb",
+    "apoPDB": "3twa",
+    "waterChange": -39
+  },
+  {
+    "holoPDB": "3rav",
+    "apoPDB": "3u90",
+    "waterChange": -6
+  },
+  {
+    "holoPDB": "3p0q",
+    "apoPDB": "3u9h",
+    "waterChange": -35
+  },
+  {
+    "holoPDB": "4bu5",
+    "apoPDB": "3u9h",
+    "waterChange": 29
+  },
+  {
+    "holoPDB": "4bu6",
+    "apoPDB": "3u9h",
+    "waterChange": -9
+  },
+  {
+    "holoPDB": "4bu8",
+    "apoPDB": "3u9h",
+    "waterChange": 23
+  },
+  {
+    "holoPDB": "4buv",
+    "apoPDB": "3u9h",
+    "waterChange": -3
+  },
+  {
+    "holoPDB": "4ufy",
+    "apoPDB": "3u9h",
+    "waterChange": 7
+  },
+  {
+    "holoPDB": "4uhg",
+    "apoPDB": "3u9h",
+    "waterChange": 38
+  },
+  {
+    "holoPDB": "4ux4",
+    "apoPDB": "3u9h",
+    "waterChange": -55
+  },
+  {
+    "holoPDB": "5al1",
+    "apoPDB": "3u9h",
+    "waterChange": 25
+  },
+  {
+    "holoPDB": "5al3",
+    "apoPDB": "3u9h",
+    "waterChange": -34
+  },
+  {
+    "holoPDB": "3trq",
+    "apoPDB": "3us3",
+    "waterChange": 35
+  },
+  {
+    "holoPDB": "3vif",
+    "apoPDB": "3vih",
+    "waterChange": -12
+  },
+  {
+    "holoPDB": "4ikk",
+    "apoPDB": "3w3b",
+    "waterChange": 2
+  },
+  {
+    "holoPDB": "3wc5",
+    "apoPDB": "3wc6",
+    "waterChange": -3
+  },
+  {
+    "holoPDB": "5j1q",
+    "apoPDB": "3wc6",
+    "waterChange": -53
+  },
+  {
+    "holoPDB": "3wn0",
+    "apoPDB": "3wmz",
+    "waterChange": 112
+  },
+  {
+    "holoPDB": "4bli",
+    "apoPDB": "3zsl",
+    "waterChange": -21
+  },
+  {
+    "holoPDB": "6g0v",
+    "apoPDB": "3zsl",
+    "waterChange": -46
+  },
+  {
+    "holoPDB": "4act",
+    "apoPDB": "4ank",
+    "waterChange": 0
+  },
+  {
+    "holoPDB": "3ato",
+    "apoPDB": "4b4j",
+    "waterChange": -30
+  },
+  {
+    "holoPDB": "4d5h",
+    "apoPDB": "4d4y",
+    "waterChange": -29
+  },
+  {
+    "holoPDB": "4dpu",
+    "apoPDB": "4dpx",
+    "waterChange": -92
+  },
+  {
+    "holoPDB": "4drv",
+    "apoPDB": "4drr",
+    "waterChange": -8
+  },
+  {
+    "holoPDB": "4ds0",
+    "apoPDB": "4drr",
+    "waterChange": -33
+  },
+  {
+    "holoPDB": "2q1q",
+    "apoPDB": "4e5q",
+    "waterChange": 11
+  },
+  {
+    "holoPDB": "3mhc",
+    "apoPDB": "4e5q",
+    "waterChange": 80
+  },
+  {
+    "holoPDB": "3mhi",
+    "apoPDB": "4e5q",
+    "waterChange": 94
+  },
+  {
+    "holoPDB": "3r17",
+    "apoPDB": "4e5q",
+    "waterChange": 84
+  },
+  {
+    "holoPDB": "4kuy",
+    "apoPDB": "4e5q",
+    "waterChange": 135
+  },
+  {
+    "holoPDB": "4rfc",
+    "apoPDB": "4e5q",
+    "waterChange": -73
+  },
+  {
+    "holoPDB": "4rfd",
+    "apoPDB": "4e5q",
+    "waterChange": -4
+  },
+  {
+    "holoPDB": "4ruz",
+    "apoPDB": "4e5q",
+    "waterChange": 95
+  },
+  {
+    "holoPDB": "5dog",
+    "apoPDB": "4e5q",
+    "waterChange": 85
+  },
+  {
+    "holoPDB": "5sz0",
+    "apoPDB": "4e5q",
+    "waterChange": 22
+  },
+  {
+    "holoPDB": "5sz3",
+    "apoPDB": "4e5q",
+    "waterChange": 47
+  },
+  {
+    "holoPDB": "4ecj",
+    "apoPDB": "4eci",
+    "waterChange": 15
+  },
+  {
+    "holoPDB": "4m24",
+    "apoPDB": "4ee9",
+    "waterChange": 58
+  },
+  {
+    "holoPDB": "4yx9",
+    "apoPDB": "4eus",
+    "waterChange": -32
+  },
+  {
+    "holoPDB": "4fph",
+    "apoPDB": "4foq",
+    "waterChange": 22
+  },
+  {
+    "holoPDB": "4fpj",
+    "apoPDB": "4foq",
+    "waterChange": -78
+  },
+  {
+    "holoPDB": "4g8b",
+    "apoPDB": "4g8d",
+    "waterChange": 13
+  },
+  {
+    "holoPDB": "4gui",
+    "apoPDB": "4gfs",
+    "waterChange": 5
+  },
+  {
+    "holoPDB": "4glj",
+    "apoPDB": "4glf",
+    "waterChange": -6
+  },
+  {
+    "holoPDB": "4hap",
+    "apoPDB": "4gwa",
+    "waterChange": 27
+  },
+  {
+    "holoPDB": "4fci",
+    "apoPDB": "4gwc",
+    "waterChange": 198
+  },
+  {
+    "holoPDB": "6fe3",
+    "apoPDB": "4i15",
+    "waterChange": 1
+  },
+  {
+    "holoPDB": "4i6w",
+    "apoPDB": "4i64",
+    "waterChange": 29
+  },
+  {
+    "holoPDB": "4ifz",
+    "apoPDB": "4ifu",
+    "waterChange": 9
+  },
+  {
+    "holoPDB": "4iav",
+    "apoPDB": "4ihm",
+    "waterChange": -34
+  },
+  {
+    "holoPDB": "3n2u",
+    "apoPDB": "4ijo",
+    "waterChange": 18
+  },
+  {
+    "holoPDB": "4pci",
+    "apoPDB": "4ioo",
+    "waterChange": -32
+  },
+  {
+    "holoPDB": "2htx",
+    "apoPDB": "4j1b",
+    "waterChange": -11
+  },
+  {
+    "holoPDB": "4jl1",
+    "apoPDB": "4j27",
+    "waterChange": -58
+  },
+  {
+    "holoPDB": "4jsa",
+    "apoPDB": "4js6",
+    "waterChange": -15
+  },
+  {
+    "holoPDB": "4jsz",
+    "apoPDB": "4jsw",
+    "waterChange": 68
+  },
+  {
+    "holoPDB": "4jxr",
+    "apoPDB": "4jxq",
+    "waterChange": 158
+  },
+  {
+    "holoPDB": "3qke",
+    "apoPDB": "4kws",
+    "waterChange": -76
+  },
+  {
+    "holoPDB": "1w4o",
+    "apoPDB": "4l55",
+    "waterChange": -60
+  },
+  {
+    "holoPDB": "1w4q",
+    "apoPDB": "4l55",
+    "waterChange": 23
+  },
+  {
+    "holoPDB": "4nfl",
+    "apoPDB": "4l6a",
+    "waterChange": -6
+  },
+  {
+    "holoPDB": "4yik",
+    "apoPDB": "4l6a",
+    "waterChange": -12
+  },
+  {
+    "holoPDB": "1uih",
+    "apoPDB": "4lfp",
+    "waterChange": -33
+  },
+  {
+    "holoPDB": "2hu1",
+    "apoPDB": "4lfp",
+    "waterChange": -25
+  },
+  {
+    "holoPDB": "4xad",
+    "apoPDB": "4lyc",
+    "waterChange": 44
+  },
+  {
+    "holoPDB": "4q87",
+    "apoPDB": "4mlx",
+    "waterChange": -15
+  },
+  {
+    "holoPDB": "4q8x",
+    "apoPDB": "4mlx",
+    "waterChange": -20
+  },
+  {
+    "holoPDB": "6af5",
+    "apoPDB": "4mnt",
+    "waterChange": -9
+  },
+  {
+    "holoPDB": "6afa",
+    "apoPDB": "4mnt",
+    "waterChange": -37
+  },
+  {
+    "holoPDB": "6aff",
+    "apoPDB": "4mnt",
+    "waterChange": -23
+  },
+  {
+    "holoPDB": "6afl",
+    "apoPDB": "4mnt",
+    "waterChange": -15
+  },
+  {
+    "holoPDB": "6gji",
+    "apoPDB": "4n1q",
+    "waterChange": -28
+  },
+  {
+    "holoPDB": "1y1d",
+    "apoPDB": "4n85",
+    "waterChange": 2
+  },
+  {
+    "holoPDB": "3b56",
+    "apoPDB": "4n85",
+    "waterChange": 31
+  },
+  {
+    "holoPDB": "6ro3",
+    "apoPDB": "4ngj",
+    "waterChange": -30
+  },
+  {
+    "holoPDB": "5b5j",
+    "apoPDB": "4ngy",
+    "waterChange": 35
+  },
+  {
+    "holoPDB": "4ojx",
+    "apoPDB": "4ojv",
+    "waterChange": -34
+  },
+  {
+    "holoPDB": "4onm",
+    "apoPDB": "4onl",
+    "waterChange": -3
+  },
+  {
+    "holoPDB": "4oqh",
+    "apoPDB": "4opy",
+    "waterChange": 99
+  },
+  {
+    "holoPDB": "3qng",
+    "apoPDB": "4owc",
+    "waterChange": -16
+  },
+  {
+    "holoPDB": "2ooh",
+    "apoPDB": "4p0h",
+    "waterChange": 87
+  },
+  {
+    "holoPDB": "4ogf",
+    "apoPDB": "4p34",
+    "waterChange": -91
+  },
+  {
+    "holoPDB": "4pc3",
+    "apoPDB": "4pc1",
+    "waterChange": -221
+  },
+  {
+    "holoPDB": "4wq2",
+    "apoPDB": "4phj",
+    "waterChange": -151
+  },
+  {
+    "holoPDB": "4oyq",
+    "apoPDB": "4plu",
+    "waterChange": -97
+  },
+  {
+    "holoPDB": "4n9s",
+    "apoPDB": "4poe",
+    "waterChange": 53
+  },
+  {
+    "holoPDB": "4n9v",
+    "apoPDB": "4poe",
+    "waterChange": 68
+  },
+  {
+    "holoPDB": "4pwi",
+    "apoPDB": "4pwe",
+    "waterChange": -28
+  },
+  {
+    "holoPDB": "4y9c",
+    "apoPDB": "4pwe",
+    "waterChange": -6
+  },
+  {
+    "holoPDB": "3u81",
+    "apoPDB": "4pym",
+    "waterChange": -39
+  },
+  {
+    "holoPDB": "2hnc",
+    "apoPDB": "4q7p",
+    "waterChange": 33
+  },
+  {
+    "holoPDB": "2qoa",
+    "apoPDB": "4q7p",
+    "waterChange": 87
+  },
+  {
+    "holoPDB": "3hkq",
+    "apoPDB": "4q7p",
+    "waterChange": -71
+  },
+  {
+    "holoPDB": "3oy0",
+    "apoPDB": "4q7p",
+    "waterChange": 22
+  },
+  {
+    "holoPDB": "3p3j",
+    "apoPDB": "4q7p",
+    "waterChange": 39
+  },
+  {
+    "holoPDB": "3v2j",
+    "apoPDB": "4q7p",
+    "waterChange": -62
+  },
+  {
+    "holoPDB": "4ht0",
+    "apoPDB": "4q7p",
+    "waterChange": 74
+  },
+  {
+    "holoPDB": "4lhi",
+    "apoPDB": "4q7p",
+    "waterChange": 24
+  },
+  {
+    "holoPDB": "4q83",
+    "apoPDB": "4q7p",
+    "waterChange": 10
+  },
+  {
+    "holoPDB": "4zx0",
+    "apoPDB": "4q7p",
+    "waterChange": 79
+  },
+  {
+    "holoPDB": "6got",
+    "apoPDB": "4q7p",
+    "waterChange": -20
+  },
+  {
+    "holoPDB": "2wd3",
+    "apoPDB": "4q7s",
+    "waterChange": 138
+  },
+  {
+    "holoPDB": "3bl0",
+    "apoPDB": "4q7s",
+    "waterChange": 57
+  },
+  {
+    "holoPDB": "3hkn",
+    "apoPDB": "4q7s",
+    "waterChange": 9
+  },
+  {
+    "holoPDB": "3m2x",
+    "apoPDB": "4q7s",
+    "waterChange": 67
+  },
+  {
+    "holoPDB": "3m67",
+    "apoPDB": "4q7s",
+    "waterChange": 31
+  },
+  {
+    "holoPDB": "3ml2",
+    "apoPDB": "4q7s",
+    "waterChange": 77
+  },
+  {
+    "holoPDB": "3mnu",
+    "apoPDB": "4q7s",
+    "waterChange": 124
+  },
+  {
+    "holoPDB": "3rz7",
+    "apoPDB": "4q7s",
+    "waterChange": 109
+  },
+  {
+    "holoPDB": "3rz8",
+    "apoPDB": "4q7s",
+    "waterChange": 124
+  },
+  {
+    "holoPDB": "3sap",
+    "apoPDB": "4q7s",
+    "waterChange": 63
+  },
+  {
+    "holoPDB": "3t5u",
+    "apoPDB": "4q7s",
+    "waterChange": 110
+  },
+  {
+    "holoPDB": "3t83",
+    "apoPDB": "4q7s",
+    "waterChange": 112
+  },
+  {
+    "holoPDB": "4kni",
+    "apoPDB": "4q7s",
+    "waterChange": 78
+  },
+  {
+    "holoPDB": "4pyy",
+    "apoPDB": "4q7s",
+    "waterChange": 133
+  },
+  {
+    "holoPDB": "4qjm",
+    "apoPDB": "4q7s",
+    "waterChange": 135
+  },
+  {
+    "holoPDB": "5n0e",
+    "apoPDB": "4q7s",
+    "waterChange": 119
+  },
+  {
+    "holoPDB": "5nee",
+    "apoPDB": "4q7s",
+    "waterChange": 145
+  },
+  {
+    "holoPDB": "5n25",
+    "apoPDB": "4q8z",
+    "waterChange": 37
+  },
+  {
+    "holoPDB": "2fmz",
+    "apoPDB": "4q90",
+    "waterChange": -43
+  },
+  {
+    "holoPDB": "3hlj",
+    "apoPDB": "4q90",
+    "waterChange": -18
+  },
+  {
+    "holoPDB": "5sz2",
+    "apoPDB": "4q90",
+    "waterChange": -9
+  },
+  {
+    "holoPDB": "5w8b",
+    "apoPDB": "4q90",
+    "waterChange": -10
+  },
+  {
+    "holoPDB": "5wg7",
+    "apoPDB": "4q90",
+    "waterChange": -12
+  },
+  {
+    "holoPDB": "6b59",
+    "apoPDB": "4q90",
+    "waterChange": -24
+  },
+  {
+    "holoPDB": "3m96",
+    "apoPDB": "4q99",
+    "waterChange": 2
+  },
+  {
+    "holoPDB": "4qsb",
+    "apoPDB": "4q99",
+    "waterChange": -28
+  },
+  {
+    "holoPDB": "2gd8",
+    "apoPDB": "4q9y",
+    "waterChange": 16
+  },
+  {
+    "holoPDB": "3mhm",
+    "apoPDB": "4q9y",
+    "waterChange": -17
+  },
+  {
+    "holoPDB": "3mmf",
+    "apoPDB": "4q9y",
+    "waterChange": 20
+  },
+  {
+    "holoPDB": "3mzc",
+    "apoPDB": "4q9y",
+    "waterChange": 30
+  },
+  {
+    "holoPDB": "3p58",
+    "apoPDB": "4q9y",
+    "waterChange": 8
+  },
+  {
+    "holoPDB": "3p5l",
+    "apoPDB": "4q9y",
+    "waterChange": -36
+  },
+  {
+    "holoPDB": "3qyk",
+    "apoPDB": "4q9y",
+    "waterChange": -27
+  },
+  {
+    "holoPDB": "3v2m",
+    "apoPDB": "4q9y",
+    "waterChange": -48
+  },
+  {
+    "holoPDB": "4dz7",
+    "apoPDB": "4q9y",
+    "waterChange": -21
+  },
+  {
+    "holoPDB": "4dz9",
+    "apoPDB": "4q9y",
+    "waterChange": -33
+  },
+  {
+    "holoPDB": "4q8y",
+    "apoPDB": "4q9y",
+    "waterChange": -7
+  },
+  {
+    "holoPDB": "4zwy",
+    "apoPDB": "4q9y",
+    "waterChange": 25
+  },
+  {
+    "holoPDB": "5ehe",
+    "apoPDB": "4q9y",
+    "waterChange": -21
+  },
+  {
+    "holoPDB": "4tte",
+    "apoPDB": "4qsq",
+    "waterChange": -9
+  },
+  {
+    "holoPDB": "4tu4",
+    "apoPDB": "4qsq",
+    "waterChange": -66
+  },
+  {
+    "holoPDB": "5epb",
+    "apoPDB": "4qsq",
+    "waterChange": -9
+  },
+  {
+    "holoPDB": "4tyl",
+    "apoPDB": "4qsu",
+    "waterChange": 20
+  },
+  {
+    "holoPDB": "6s57",
+    "apoPDB": "4qsu",
+    "waterChange": -45
+  },
+  {
+    "holoPDB": "4r37",
+    "apoPDB": "4r36",
+    "waterChange": 44
+  },
+  {
+    "holoPDB": "4r8s",
+    "apoPDB": "4r8r",
+    "waterChange": -47
+  },
+  {
+    "holoPDB": "2nq6",
+    "apoPDB": "4u6j",
+    "waterChange": -11
+  },
+  {
+    "holoPDB": "4ikt",
+    "apoPDB": "4u6j",
+    "waterChange": -131
+  },
+  {
+    "holoPDB": "4u69",
+    "apoPDB": "4u6j",
+    "waterChange": -50
+  },
+  {
+    "holoPDB": "4u6z",
+    "apoPDB": "4u76",
+    "waterChange": 46
+  },
+  {
+    "holoPDB": "5yr4",
+    "apoPDB": "4u76",
+    "waterChange": 17
+  },
+  {
+    "holoPDB": "4w7v",
+    "apoPDB": "4w7u",
+    "waterChange": 27
+  },
+  {
+    "holoPDB": "3mfl",
+    "apoPDB": "4who",
+    "waterChange": 215
+  },
+  {
+    "holoPDB": "3mv6",
+    "apoPDB": "4who",
+    "waterChange": 73
+  },
+  {
+    "holoPDB": "6pbb",
+    "apoPDB": "4wl7",
+    "waterChange": -1
+  },
+  {
+    "holoPDB": "4xen",
+    "apoPDB": "4wm2",
+    "waterChange": 11
+  },
+  {
+    "holoPDB": "4xe9",
+    "apoPDB": "4xik",
+    "waterChange": 2
+  },
+  {
+    "holoPDB": "4xil",
+    "apoPDB": "4xik",
+    "waterChange": -71
+  },
+  {
+    "holoPDB": "4xj9",
+    "apoPDB": "4xik",
+    "waterChange": -71
+  },
+  {
+    "holoPDB": "4xja",
+    "apoPDB": "4xik",
+    "waterChange": -68
+  },
+  {
+    "holoPDB": "4xju",
+    "apoPDB": "4xik",
+    "waterChange": -49
+  },
+  {
+    "holoPDB": "4xjw",
+    "apoPDB": "4xjz",
+    "waterChange": 19
+  },
+  {
+    "holoPDB": "3ryv",
+    "apoPDB": "4ygn",
+    "waterChange": 138
+  },
+  {
+    "holoPDB": "3ryy",
+    "apoPDB": "4ygn",
+    "waterChange": 115
+  },
+  {
+    "holoPDB": "4yt5",
+    "apoPDB": "4yt8",
+    "waterChange": -57
+  },
+  {
+    "holoPDB": "4za2",
+    "apoPDB": "4z9y",
+    "waterChange": -232
+  },
+  {
+    "holoPDB": "5jmz",
+    "apoPDB": "4zao",
+    "waterChange": -11
+  },
+  {
+    "holoPDB": "6e8p",
+    "apoPDB": "4zao",
+    "waterChange": -84
+  },
+  {
+    "holoPDB": "6eeo",
+    "apoPDB": "4zao",
+    "waterChange": -146
+  },
+  {
+    "holoPDB": "4zum",
+    "apoPDB": "4zup",
+    "waterChange": -50
+  },
+  {
+    "holoPDB": "4zun",
+    "apoPDB": "4zup",
+    "waterChange": -86
+  },
+  {
+    "holoPDB": "4zuo",
+    "apoPDB": "4zup",
+    "waterChange": 1
+  },
+  {
+    "holoPDB": "5auv",
+    "apoPDB": "5av1",
+    "waterChange": -9
+  },
+  {
+    "holoPDB": "5aux",
+    "apoPDB": "5av1",
+    "waterChange": -3
+  },
+  {
+    "holoPDB": "5av2",
+    "apoPDB": "5av1",
+    "waterChange": -15
+  },
+  {
+    "holoPDB": "3txe",
+    "apoPDB": "5b05",
+    "waterChange": 11
+  },
+  {
+    "holoPDB": "5bx2",
+    "apoPDB": "5bvu",
+    "waterChange": 24
+  },
+  {
+    "holoPDB": "5bx4",
+    "apoPDB": "5bvu",
+    "waterChange": -25
+  },
+  {
+    "holoPDB": "5tyk",
+    "apoPDB": "5ch3",
+    "waterChange": -18
+  },
+  {
+    "holoPDB": "5jim",
+    "apoPDB": "5cn3",
+    "waterChange": 17
+  },
+  {
+    "holoPDB": "4wnj",
+    "apoPDB": "5cnh",
+    "waterChange": 33
+  },
+  {
+    "holoPDB": "5e23",
+    "apoPDB": "5cnh",
+    "waterChange": 42
+  },
+  {
+    "holoPDB": "5e4a",
+    "apoPDB": "5cnh",
+    "waterChange": 37
+  },
+  {
+    "holoPDB": "5e4o",
+    "apoPDB": "5cnh",
+    "waterChange": -35
+  },
+  {
+    "holoPDB": "5hjg",
+    "apoPDB": "5cnh",
+    "waterChange": 34
+  },
+  {
+    "holoPDB": "5jiq",
+    "apoPDB": "5cnh",
+    "waterChange": 18
+  },
+  {
+    "holoPDB": "5l4f",
+    "apoPDB": "5cnh",
+    "waterChange": 30
+  },
+  {
+    "holoPDB": "5l4i",
+    "apoPDB": "5cnh",
+    "waterChange": 47
+  },
+  {
+    "holoPDB": "5d2h",
+    "apoPDB": "5d2g",
+    "waterChange": -16
+  },
+  {
+    "holoPDB": "6dnj",
+    "apoPDB": "5d30",
+    "waterChange": 1
+  },
+  {
+    "holoPDB": "3l14",
+    "apoPDB": "5dsm",
+    "waterChange": -24
+  },
+  {
+    "holoPDB": "5e28",
+    "apoPDB": "5dso",
+    "waterChange": 12
+  },
+  {
+    "holoPDB": "5ekh",
+    "apoPDB": "5dso",
+    "waterChange": -6
+  },
+  {
+    "holoPDB": "5ekm",
+    "apoPDB": "5dso",
+    "waterChange": -28
+  },
+  {
+    "holoPDB": "5nea",
+    "apoPDB": "5dso",
+    "waterChange": 7
+  },
+  {
+    "holoPDB": "6h3q",
+    "apoPDB": "5dso",
+    "waterChange": -17
+  },
+  {
+    "holoPDB": "3ryj",
+    "apoPDB": "5dsp",
+    "waterChange": -27
+  },
+  {
+    "holoPDB": "3s8x",
+    "apoPDB": "5dsp",
+    "waterChange": -83
+  },
+  {
+    "holoPDB": "4rh2",
+    "apoPDB": "5dsp",
+    "waterChange": -2
+  },
+  {
+    "holoPDB": "4ir5",
+    "apoPDB": "5e9m",
+    "waterChange": 21
+  },
+  {
+    "holoPDB": "4ir6",
+    "apoPDB": "5e9m",
+    "waterChange": 11
+  },
+  {
+    "holoPDB": "4nra",
+    "apoPDB": "5e9m",
+    "waterChange": 7
+  },
+  {
+    "holoPDB": "4xua",
+    "apoPDB": "5e9m",
+    "waterChange": 18
+  },
+  {
+    "holoPDB": "5e74",
+    "apoPDB": "5e9m",
+    "waterChange": -18
+  },
+  {
+    "holoPDB": "5l8u",
+    "apoPDB": "5e9m",
+    "waterChange": -6
+  },
+  {
+    "holoPDB": "5e3k",
+    "apoPDB": "5eav",
+    "waterChange": 169
+  },
+  {
+    "holoPDB": "3bet",
+    "apoPDB": "5eoi",
+    "waterChange": -20
+  },
+  {
+    "holoPDB": "4xe1",
+    "apoPDB": "5eoi",
+    "waterChange": -51
+  },
+  {
+    "holoPDB": "5fdc",
+    "apoPDB": "5eoi",
+    "waterChange": -23
+  },
+  {
+    "holoPDB": "5fdi",
+    "apoPDB": "5eoi",
+    "waterChange": -48
+  },
+  {
+    "holoPDB": "5f6y",
+    "apoPDB": "5f6e",
+    "waterChange": -17
+  },
+  {
+    "holoPDB": "5zms",
+    "apoPDB": "5gpi",
+    "waterChange": -86
+  },
+  {
+    "holoPDB": "4c67",
+    "apoPDB": "5hcl",
+    "waterChange": -30
+  },
+  {
+    "holoPDB": "4o72",
+    "apoPDB": "5hcl",
+    "waterChange": -50
+  },
+  {
+    "holoPDB": "4o7b",
+    "apoPDB": "5hcl",
+    "waterChange": -62
+  },
+  {
+    "holoPDB": "5f63",
+    "apoPDB": "5hcl",
+    "waterChange": -50
+  },
+  {
+    "holoPDB": "5kj0",
+    "apoPDB": "5hcl",
+    "waterChange": -63
+  },
+  {
+    "holoPDB": "5hgp",
+    "apoPDB": "5hgn",
+    "waterChange": 4
+  },
+  {
+    "holoPDB": "6es8",
+    "apoPDB": "5hgn",
+    "waterChange": -26
+  },
+  {
+    "holoPDB": "6f2i",
+    "apoPDB": "5hmj",
+    "waterChange": 31
+  },
+  {
+    "holoPDB": "5ida",
+    "apoPDB": "5id8",
+    "waterChange": -30
+  },
+  {
+    "holoPDB": "5kma",
+    "apoPDB": "5ipb",
+    "waterChange": 14
+  },
+  {
+    "holoPDB": "4g8y",
+    "apoPDB": "5jmg",
+    "waterChange": -34
+  },
+  {
+    "holoPDB": "4bad",
+    "apoPDB": "5k2n",
+    "waterChange": -13
+  },
+  {
+    "holoPDB": "6f2j",
+    "apoPDB": "5k2n",
+    "waterChange": 4
+  },
+  {
+    "holoPDB": "5il1",
+    "apoPDB": "5k7m",
+    "waterChange": -146
+  },
+  {
+    "holoPDB": "1t3p",
+    "apoPDB": "5la5",
+    "waterChange": 51
+  },
+  {
+    "holoPDB": "5ihh",
+    "apoPDB": "5lll",
+    "waterChange": 13
+  },
+  {
+    "holoPDB": "6f4x",
+    "apoPDB": "5lu0",
+    "waterChange": -156
+  },
+  {
+    "holoPDB": "5mte",
+    "apoPDB": "5mtd",
+    "waterChange": -20
+  },
+  {
+    "holoPDB": "5mzy",
+    "apoPDB": "5mzw",
+    "waterChange": -152
+  },
+  {
+    "holoPDB": "4r4q",
+    "apoPDB": "5n8a",
+    "waterChange": -11
+  },
+  {
+    "holoPDB": "1kjr",
+    "apoPDB": "5nf7",
+    "waterChange": -49
+  },
+  {
+    "holoPDB": "3t1l",
+    "apoPDB": "5nfc",
+    "waterChange": -45
+  },
+  {
+    "holoPDB": "4jc1",
+    "apoPDB": "5nfc",
+    "waterChange": -40
+  },
+  {
+    "holoPDB": "4lbo",
+    "apoPDB": "5nfc",
+    "waterChange": -40
+  },
+  {
+    "holoPDB": "5h9r",
+    "apoPDB": "5nfc",
+    "waterChange": -25
+  }
+]

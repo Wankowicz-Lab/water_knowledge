@@ -3,3 +3,22 @@ This test includes making a graph network of water networks of Kinases and using
 1. All kinase waters were extracted via TS/JS and saved to ./allKinaseWaters.json
 2. Python taking over because more features working with graphs
 
+
+
+------ 
+MMSEQ Clusters
+
+Create database:
+    mmseqs createdb all_kinases.fasta kinasesDB
+
+Get TSV:
+    mmseqs cluster kinasesDB clusters90 tmp --min-seq-id 0.9
+    mmseqs createtsv kinasesDB kinasesDB clusters90 clusters90.tsv
+
+Place TSV files into ./mmseq_clusters
+
+
+---- 
+
+Network Graphing with Seq Identity nonfunctional right now because
+- PDBs can have multiple chains

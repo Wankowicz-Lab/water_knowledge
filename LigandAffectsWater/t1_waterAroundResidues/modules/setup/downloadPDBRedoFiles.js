@@ -45,7 +45,7 @@ const downloadPDBRedoFiles = (pdbId, directory) => {
             ]);
         }
         catch (error) {
-            console.log('Error downloading ' + pdbId);
+            console.log('Error downloading ' + pdbId + '. Prolly not found.');
         }
         resolve(true);
     }));

@@ -34,6 +34,7 @@ export interface PDB {
 
     // Methods
     toPDBString(): string;
+    filterEntries(filter? : (entry: PDBLineEntry) => boolean): PDBLineEntry[];
     getWaterMolecules(waterfilter: (entry? : PDBLineEntry, pdb?: PDB ) => boolean): PDBLineEntry[];
     getProteinAtoms(): PDBLineEntry[];
     getLigandAtoms(): PDBLineEntry[];
@@ -120,6 +121,10 @@ export function parsePDB(pdb: string): PDB {
             return this.entries.filter(entry => entry.isWater).filter(g => {
                 return waterfilter(g, this);
             });
+        },
+        filterEntries( filter = (entry: PDBLineEntry) => true ) {
+            this.entries = this.entries.filter( filter );
+            return this.entries;
         },
         getProteinAtoms() {
             const standardAminoAcids = [

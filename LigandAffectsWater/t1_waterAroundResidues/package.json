@@ -7,12 +7,17 @@
 
     "download": "npx tsc && node scripts/downloadAllPDBs.js",
     "align": "npx tsc && node scripts/align.js",
+    
+    "make-fasta-files": "npx tsc && node scripts/makeFastaFiles.js",
 
     "graph-heatmap-comparison-1": "npx tsc && node scripts/graphing/AllComparison1/makeHeatmapData.js",
+    "graph-net-comparison-1": "npx tsc && node scripts/graphing/AllComparison1/netChange.js",
     "graph-heatmap-comparison-1-bfac": "npx tsc && node scripts/graphing/AllComparison1/makeBFactorBasedHeatmapData.js",
     "graph-heatmap-comparison-2": "npx tsc && node scripts/graphing/LigandSeriesComparison/makeHeatmapData.js",
 
-    "make-water-network": "npx tsc && node scripts/networks/WaterNetwork/makeNetwork.js"
+    "make-water-network": "npx tsc && node scripts/networks/WaterNetwork/makeNetwork.js",
+
+    "compare-mac1-holos": "npx tsc && node scripts/graphing/Mac1Holos/compare.js"
   },
   "devDependencies": {
     "@types/node": "^22.13.13",

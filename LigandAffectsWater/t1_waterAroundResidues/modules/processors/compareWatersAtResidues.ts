@@ -39,6 +39,7 @@ export function compareWatersAtResidues(
 
     const results: WaterComparisonResult[] = [];
 
+
     for (const [residueKey, atoms] of Object.entries(residueGroups)) {
         const [residueNumber, chainID, residueName] = residueKey.split('_');
 

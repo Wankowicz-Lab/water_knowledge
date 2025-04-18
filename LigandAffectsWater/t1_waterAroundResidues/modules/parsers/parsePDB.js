@@ -76,10 +76,13 @@ function parsePDB(pdb) {
             return [...this.header, ...atomLines, ...this.footer].join('\n');
         },
         getWaterMolecules(waterfilter = (water, pdb) => true) {
-            console.log(this.entries.length);
             return this.entries.filter(entry => entry.isWater).filter(g => {
                 return waterfilter(g, this);
             });
+        },
+        filterEntries(filter = (entry) => true) {
+            this.entries = this.entries.filter(filter);
+            return this.entries;
         },
         getProteinAtoms() {
             const standardAminoAcids = [
