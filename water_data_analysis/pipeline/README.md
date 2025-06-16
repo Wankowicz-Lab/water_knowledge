@@ -1,5 +1,5 @@
-## Water knowledge analysis.
-This is a collection of scripts to perform analysis of water molecules in the given PDBs.
+## Water knowledge analysis based on inference calculations.
+This is a collection of scripts to perform analysis of water molecules in the given PDBs (deposited structures compared with predicted structures).
 
 There are two types of scripts here: 
   1. Calculate global and local metrics of PDBs (with water molecules). 
