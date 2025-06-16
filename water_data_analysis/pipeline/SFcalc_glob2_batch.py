@@ -8,7 +8,9 @@ from tqdm import tqdm
 import time
 from torch.utils.data import DataLoader
 
-# The absolute path of the given directory.
+## Calculate R-free value (global metric) with SFcalculator and save results as csv. Perform calculations in batches to comply with GPU.
+## Example: "python SFcalc_glob2_batch.py $base_dir $csv_file"
+# The absolute path of the given directory. Contains all .pdb and .mtz files in the subdirectories.
 base_dir=sys.argv[1]
 base_dir=os.path.abspath(base_dir)
 
