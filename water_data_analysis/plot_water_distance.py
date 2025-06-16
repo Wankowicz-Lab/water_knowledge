@@ -1,4 +1,5 @@
-## Plot the residue counts for different dataset.
+## Plot the B factor (raw and normalized values) vs distance and occupancy vs distance for water molecules in the protein. 
+## Distance = distance of water molecule to its closest residue.
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
