@@ -1,5 +1,6 @@
 ## Plot the B factor (raw and normalized values) vs distance and occupancy vs distance for water molecules in the protein. 
 ## Distance = distance of water molecule to its closest residue.
+## Change the filepath to all raw data, list of training set (csv file), and list of test set (csv file) based on your data.
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
@@ -7,9 +8,6 @@ import os
 import numpy as np
 import glob
 import gemmi
-
-# SOURCE_DIR="/dors/wankowicz_lab/water/PDBRedo"
-SOURCE_DIR="/dors/wankowicz_lab/vratins/pdb_redo_data"
 
 def read_csv(file):
     """
@@ -126,6 +124,9 @@ def gen_distance_data(wat_chain_dict, AA_chain_dict):
     return flat_list
 
 
+# Raw data filepath.
+SOURCE_DIR="/dors/wankowicz_lab/vratins/pdb_redo_data"
+
 # Collect PDB ids.
 train_list=read_csv("/dors/wankowicz_lab/water/train.txt")
 test_list=read_csv("/dors/wankowicz_lab/water/test.txt")
@@ -189,7 +190,7 @@ ax.set_xlabel('Distance')
 ax.set_ylabel('B-factor')
 ax.legend()
 # Save plot.
-plot_path = 'plots/Both_distance_raw_bfac.pnb'
+plot_path = 'plots/Both_distance_raw_bfac.png'
 plt.savefig(plot_path, dpi=200, bbox_inches='tight')
 plt.show()
 
@@ -202,7 +203,7 @@ ax.set_xlabel('Distance')
 ax.set_ylabel('B-factor')
 ax.legend()
 # Save plot.
-plot_path = 'plots/Both_distance_norm_bfac.pnb'
+plot_path = 'plots/Both_distance_norm_bfac.png'
 plt.savefig(plot_path, dpi=200, bbox_inches='tight')
 plt.show()
 
@@ -215,6 +216,6 @@ ax.set_xlabel('Distance')
 ax.set_ylabel('Occupancy')
 ax.legend()
 # Save plot.
-plot_path = 'plots/Both_distance_occ.pnb'
+plot_path = 'plots/Both_distance_occ.png'
 plt.savefig(plot_path, dpi=200, bbox_inches='tight')
 plt.show()
