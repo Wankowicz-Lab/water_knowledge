@@ -1,4 +1,4 @@
-# Water Knowledge
+# Water Knowledge  (4 atom sets)
 Scripts related to solvated rotamer database and water knowledge analysis
 
 Scripts for building 4 atom sets
